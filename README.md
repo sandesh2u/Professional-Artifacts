@@ -4,6 +4,4 @@ Please note that these artifacts have been redacted for security reasons. Not to
 
 Here, you will find the following documents:
 a. Sample - Business Requirement Document
-b. Sample - Conceptual Data Model 
-c. Sample - Data & Analytics Assessment
-d. sample - Data Dictionary
+b. sample - Data Dictionary
